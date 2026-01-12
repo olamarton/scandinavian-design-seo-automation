@@ -10,6 +10,9 @@
 - SEO score: 1/10
 - Manual optimization = 2,700+ hours of work
 
+![Before and After Transformation](results/seo-results-before-after.png)
+*Visual transformation: From manual chaos to AI-powered efficiency*
+
 **The math:** 
 29,347 images × 5 min per image = 2,447 hours  
 At designer rates: 2,447h × €100/h = €244,700
