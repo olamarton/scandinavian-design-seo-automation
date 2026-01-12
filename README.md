@@ -217,7 +217,7 @@ I'm happy to discuss this project, share learnings, or help other publishers imp
 
 **Ola Marton**  
 AI Creative Director | 40 years in design  
-📧 [email]  
+📧 [ola@m18.se](mailto:ola@m18.se)
 🔗 [LinkedIn](link)  
 🌐 [ScandinavianDesign.com](https://scandinaviandesign.com)
 
@@ -232,30 +232,4 @@ Scripts: MIT License
 
 ---
 
-## Steg 4: Lägg till din skärmdump
 
-### Professionell presentation av bilden:
-
-**Skapa en `results/` mapp i repot och lägg din screenshot där.**
-
-Gör bilden ännu mer "GitHub-ready":
-
-1. **Crop den snyggt** (fokus på resultaten)
-2. **Lägg till annotations** (om du vill):
-   - Pil mot "96%" med text "Skalbarhet"
-   - Pil mot "8-9/10" med text "ROI"
-   - Pil mot "29,347" med text "AI-generated"
-
-3. **Skapa en "hero image"** med denna data:
-```
-[Screenshot av din terminal]
-↓
-+------------------------+
-| ScandinavianDesign.com |
-| SEO Transformation     |
-|                        |
-| 41,691 images          |
-| 96% processed          |
-| SEO: 1/10 → 8-9/10    |
-| Saved: €244k          |
-+------------------------+
