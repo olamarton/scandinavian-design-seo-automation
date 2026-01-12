@@ -36,6 +36,9 @@ At designer rates: 2,447h × €100/h = €244,700
 **ROI: 489x cost saving**  
 **Time saving: 98%**
 
+![Impact Summary](results/seo-results-social.png)
+*Project impact at a glance: Scale, quality improvement, and time saved*
+
 ---
 
 ## 🛠️ Technical Architecture
