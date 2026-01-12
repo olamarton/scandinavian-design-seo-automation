@@ -1,6 +1,6 @@
 # ScandinavianDesign.com - AI-Powered SEO Automation
 
-![SEO Results](path-to-your-screenshot.png)
+![SEO Results](results/seo-results-enhanced.png)
 
 ## 📊 The Challenge
 
