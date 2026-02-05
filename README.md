@@ -113,28 +113,16 @@ Result: 90% accuracy, but still some edge cases
 ## 📁 Repository Structure
 ```
 scandinavian-design-seo-automation/
-├── README.md (this file)
-├── docs/
-│   ├── architecture.md
-│   ├── prompt-evolution.md
-│   └── case-study.pdf
-├── prompts/
-│   ├── alt-text-generation.md
-│   ├── quality-control.md
-│   └── batch-processing.md
-├── scripts/
-│   ├── image-extractor.py
-│   ├── alt-text-uploader.py
-│   └── quality-checker.py
-├── results/
-│   ├── before-after-metrics.png
-│   ├── seo-score-progression.png
-│   └── processing-stats.json
-└── examples/
-    ├── good-alt-texts.md
-    ├── bad-alt-texts.md
-    └── edge-cases.md
+├── README.md
+└── results/
+    ├── seo-results-enhanced.png
+    ├── seo-results-before-after.png
+    └── seo-results-social.png
 ```
+
+*Note: Scripts and prompt templates available on request for publishers facing similar challenges.*
+```
+
 
 ---
 
@@ -224,7 +212,7 @@ I'm happy to discuss this project, share learnings, or help other publishers imp
 **Ola Marton**  
 AI Creative Director | 40 years in design  
 📧 [ola@m18.se](mailto:ola@m18.se)
-🔗 [LinkedIn](link)  
+🔗 [LinkedIn](https://www.linkedin.com/in/olamarton/) 
 🌐 [ScandinavianDesign.com](https://scandinaviandesign.com)
 
 ---
